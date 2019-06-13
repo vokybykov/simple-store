@@ -1,0 +1,35 @@
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# node-waf configuration
+.lock-wscript
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+
+# compiled output
+/dist
+/tmp
+/out-tsc
+
+# IDEs and editors
+/.idea
+
+# System Files
+.DS_Store
+Thumbs.db
+
+#.vscode
