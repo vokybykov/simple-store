@@ -110,6 +110,10 @@ a, a:hover {
 	margin-bottom: 3% !important;
 }
 
+.card-img-top {
+    padding: 15px;
+}
+
 .card-footer {
 	background-color: transparent;
 }
